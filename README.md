@@ -6,7 +6,7 @@ This repository consists of two R scripts that are used for data engineering:
 2. Keyword analysis.R which is used to assign articles to pre-defined Demonstration Environment related keywords 
 
 # Author and Affiliation
-These codes are developed by Nie Wei a MPhil student at the Institute for Manufacturing, University of Cambridge. Email: wn230@cam.ac.uk
+These codes were developed by Nie Wei from the Institute for Manufacturing, University of Cambridge for her dessertation of MPhil in Industrial Systems, Manufacturing and Management degree. Email: wn230@cam.ac.uk
 
 # Feedback
 Please report bugs or send feedbacks to wn230@cam.ac.uk.
