@@ -10,3 +10,5 @@ These codes were developed by Nie Wei from the Institute for Manufacturing, Univ
 
 # Feedback
 Please report bugs or send feedbacks to wn230@cam.ac.uk.
+
+The file is also available in OSF https://osf.io/g4ptj/
